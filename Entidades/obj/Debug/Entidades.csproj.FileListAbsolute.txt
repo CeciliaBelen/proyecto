@@ -1,0 +1,6 @@
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\Entidades\bin\Debug\Entidades.dll
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\Entidades\bin\Debug\Entidades.pdb
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\Entidades\obj\Debug\Entidades.dll
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\Entidades\obj\Debug\Entidades.pdb

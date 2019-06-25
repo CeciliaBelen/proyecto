@@ -12,6 +12,8 @@
         public void Agregar(Entidades.Alumno pAlumno)
         {
             //TODO: Llamar a métodos de la capa de Datos
+            Datos.Alumno objAlumno = new Datos.Alumno();
+            objAlumno.Agregar(pAlumno);
         }
     }
 }

@@ -1,0 +1,9 @@
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\Datos\bin\Debug\Datos.dll
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\Datos\bin\Debug\Datos.pdb
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\Datos\bin\Debug\Entidades.dll
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\Datos\bin\Debug\Entidades.pdb
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\Datos\obj\Debug\Datos.dll
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\Datos\obj\Debug\Datos.pdb
