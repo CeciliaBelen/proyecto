@@ -1,0 +1,14 @@
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\ConsoleTeachers\bin\Debug\ConsoleTeachers.exe.config
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\ConsoleTeachers\bin\Debug\ConsoleTeachers.exe
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\ConsoleTeachers\bin\Debug\ConsoleTeachers.pdb
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\ConsoleTeachers\bin\Debug\Entidades.dll
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\ConsoleTeachers\bin\Debug\Logica.dll
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\ConsoleTeachers\bin\Debug\Datos.dll
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\ConsoleTeachers\bin\Debug\Entidades.pdb
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\ConsoleTeachers\bin\Debug\Logica.pdb
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\ConsoleTeachers\bin\Debug\Datos.pdb
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\ConsoleTeachers\obj\Debug\ConsoleTeachers.csprojAssemblyReference.cache
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\ConsoleTeachers\obj\Debug\ConsoleTeachers.csproj.CoreCompileInputs.cache
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\ConsoleTeachers\obj\Debug\ConsoleTeachers.csproj.CopyComplete
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\ConsoleTeachers\obj\Debug\ConsoleTeachers.exe
+C:\Users\t11641.training11\Desktop\Tecnolo.SHE\Backend\Clase 7\SolucionTechnoloshe\proyecto\ConsoleTeachers\obj\Debug\ConsoleTeachers.pdb
