@@ -25,5 +25,15 @@ namespace Datos
             objCommand.ExecuteNonQuery();
             objConexion.Close();
         }
+        public DataTable TraerTodos()
+        {
+            DataTable dt = new DataTable();
+            string strConexion = @"Server=CPX-DRG65AZ7G7H\TRAINING;database=tecno;Integrated Security=true";
+            string strSQL = "select * from Alumnos";
+            SqlDataAdapter objDa = new SqlDataAdapter(strSQL,strConexion);
+            objDa.Fill(dt);
+            return dt;
+        }
+
     }
 }

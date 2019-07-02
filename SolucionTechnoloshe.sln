@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentacionConsola", "Pres
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTeachers", "ConsoleTeachers\ConsoleTeachers.csproj", "{B53AB06D-B52C-4C8C-B889-965A9E6A04E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentacionWeb", "PresentacionWeb\PresentacionWeb.csproj", "{84664F8F-DE8C-448C-A655-CEE1671DF56C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B53AB06D-B52C-4C8C-B889-965A9E6A04E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B53AB06D-B52C-4C8C-B889-965A9E6A04E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B53AB06D-B52C-4C8C-B889-965A9E6A04E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84664F8F-DE8C-448C-A655-CEE1671DF56C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84664F8F-DE8C-448C-A655-CEE1671DF56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84664F8F-DE8C-448C-A655-CEE1671DF56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84664F8F-DE8C-448C-A655-CEE1671DF56C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
